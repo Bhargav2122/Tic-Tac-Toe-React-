@@ -51,10 +51,10 @@
 }
 @media screen and (max-width:400px){
     .board-row {
-        width: 370px;
+        width: 350px;
     }
     .cell {
-        height: 100px;
+        height: 80px;
         font-size: 3.25rem;
     }
 }
