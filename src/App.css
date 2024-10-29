@@ -51,7 +51,7 @@
 }
 @media screen and (max-width:400px){
     .board-row {
-        width: 400px;
+        width: 370px;
     }
     .cell {
         height: 100px;
